@@ -1,9 +1,6 @@
 # Git & GitHub Workshop — Contributions Repo
 
-Welcome! 123👋
-456789
-12345
-67890
+Welcome!
 
 This repository is for participants of our **Git & GitHub workshop**.
 
